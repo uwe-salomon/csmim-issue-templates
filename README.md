@@ -1,2 +1,3 @@
 # csmim-issue-templates
-Test of issue templates before release on ARINC CSMIM site
+This repository serves to test issue templates before releasing them on the 
+[ARINC CSMIM site](https://github.com/ARINC-IA/CSMIM).
